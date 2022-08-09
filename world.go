@@ -1,7 +1,7 @@
-package the_world
+package theWorld
 
 import "fmt"
 
-func log() {
+func Log() {
 	fmt.Println("THE WORLD")
 }
